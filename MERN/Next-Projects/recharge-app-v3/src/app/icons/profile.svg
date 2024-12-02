@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: #086efe;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .cls-1 {
+          stroke: white;
+        }
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="icons">
+      <g>
+        <g>
+          <rect class="cls-2" x="19.25" y="15" width="9.5" height="10.5" rx="4.75" ry="4.75"/>
+          <path class="cls-2" d="M14.5,36.8756v-2.7879c0-.8988.3928-1.7578,1.0951-2.3189,1.4086-1.1253,4.1877-2.7689,8.4049-2.7689s6.9964,1.6436,8.4049,2.7689c.7022.561,1.0951,1.42,1.0951,2.3189v2.7879"/>
+        </g>
+        <circle class="cls-1" cx="24" cy="24" r="16"/>
+      </g>
+    </g>
+  </g>
+</svg>
